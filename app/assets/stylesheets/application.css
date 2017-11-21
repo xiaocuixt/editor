@@ -12,5 +12,6 @@
  *
  *= require_tree .
  *= require froala_editor
+ *= require plugins/image.min
  *= require_self
  */
